@@ -1,0 +1,14 @@
+/* Background */
+
+.home-bg {
+  color: white;
+  background-color: #414140;
+  min-height: 100vh;
+}
+.addtweetbg {
+  min-height: 100vh;
+  padding-bottom: 80px;
+}
+.cardcss {
+  padding-bottom: 80px;
+}

@@ -1,0 +1,10 @@
+{
+  "short_name": "PCCOER Web",
+  "name": "Platform To Connect PCCOER Student",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

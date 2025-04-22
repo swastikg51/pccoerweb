@@ -1,0 +1,21 @@
+/* Header */
+.header {
+  background-color: #211f21;
+}
+.active {
+  background-color: #fa0b77 !important;
+  color: white;
+  font-weight: bold;
+}
+.nav-link {
+  border: 2px solid #fa0b77;
+  border-radius: 5px;
+}
+.nav-link:hover {
+  background-color: #fa0b77;
+  color: white;
+  font-weight: bold;
+}
+.logo {
+  font-weight: bolder;
+}
